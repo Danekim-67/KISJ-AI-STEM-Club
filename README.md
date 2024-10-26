@@ -1,4 +1,3 @@
-.
 ## Team Members
 
 | Member Name             | Role                                                                |
