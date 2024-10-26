@@ -1,13 +1,13 @@
 .
-## Team Member
+## Team Members
 
-| Member Name          | Role                                                                |
+| Member Name             | Role                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Dong Hyun Kim | President_Main Developer |
-| Yae Ji Cha |Vice President_Project Manager | 
-| Jae Yoon Park| dddddd |
-| Ji Yu Song | ddddd |
-| Yaeni Cha| ddddd |
+|Dong Hyun Kim | President_Main Developer|
+|Yaeji Cha| Vice President_Project Manager|
+|Jaeyun Park | Vice President_Lead Developer|
+|Jiyu Song| Vice President_Lead Developer|
+|Yaeni Cha| Secretary_Project Assistant|
 
 
 
