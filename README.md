@@ -4,7 +4,7 @@
 | Member Name             | Role                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 |Dong Hyun Kim | President_Main Developer|
-|Yaeji Cha| Vice President_Project Manager|
+|Yaeji Cha| President_Project Manager|
 |Jaeyun Park | Vice President_Lead Developer|
 |Jiyu Song| Vice President_Lead Developer|
 |Yaeni Cha| Secretary_Project Assistant|
