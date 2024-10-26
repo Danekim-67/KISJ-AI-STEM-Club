@@ -7,11 +7,11 @@
 | Yae Ji Cha |Vice President_Project Manager | 
 | Jae Yoon Park| dddddd |
 | Ji Yu Song | ddddd |
-| Yae Ni Cha| ddddd |
+| Yaeni Cha| ddddd |
 
 
 
-## Other Common Github Profile Sections
+## Team Goals
 
 
  🎯 The primary goal of the AI STEM Club is to equip members with advanced AI prompting skills and apply these skills to real-world problems. Members will engage in discussions on recent AI issues, explore personal interests, and identify problems they wish to solve. 
