@@ -2,7 +2,7 @@
 
 | Member Name             | Role                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|DongHyun Kim | President_Main Developer|
+|Donghyun Kim | President_Main Developer|
 |Yaeji Cha| President_Project Manager|
 |Jaeyun Park | Vice President_Lead Developer|
 |Jiyu Song| Vice President_Lead Developer|
