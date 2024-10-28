@@ -36,3 +36,7 @@ Our team's patent introduces a smart grid innovation that optimizes solar and wa
  🎯 The primary goal of the AI STEM Club is to equip members with advanced AI prompting skills and apply these skills to real-world problems. Members will engage in discussions on recent AI issues, explore personal interests, and identify problems they wish to solve. 
 
 💡 Our vision is to create a vibrant community of young innovators who are equipped to tackle pressing challenges in the modern world using AI. By fostering a culture of continuous learning and collaboration, we aim to inspire students to learn AI programming skills in depth at three levels and to pursue and apply these skills in their future majors.
+
+## Entrepreneurship_Conrad Challenge Prep
+
+Our team Uyoung is in the process of developing Usprout and will develop this product and receive funding. It is well worth the business to realize sustainable urban agriculture through Usprout and to give more people the opportunity to participate in agriculture easily and quickly. Through funds, profits come from product sales of our hardware and software package. We'll offer a subscription model for advanced AI features, sell consumables such as seeds/nutrients, and potentially monetize the valuable agricultural data insights gathered by our system.
