@@ -5,6 +5,7 @@ There are various fields where AI can provide solutions. For our 2024-25 project
 
 Our ultimate goal is to raise awareness about the related issue, obtain patents related to our ideas, and turn them into reality through entrepreneurship. We are collaborating to create small parts of the project and support each other during our challenges to work together to pursue our dreams. 
 
+Our team's patent introduces a smart grid innovation that optimizes solar and water renewable energy, distributed efficiently to maintain optimal growing conditions in controlled environments for plant cultivation. Our product utilizes AI integration and IoT to create system features that enable user connectivity and convenience. Our technology not only supports green energy but also global efforts for a sustainable environment and provides customers with an easy agricultural experience. 
 
 ## Team Members
 
