@@ -1,3 +1,4 @@
+## Team UYoung Project
 Hello! We are Team UYoung, a group of 5 founding high school members from Korea International School Jeju, who are interested in learning more about coding and AI. We are excited to introduce our passion project: KIS AI STEM Club, where we gather to explore our interests and innovate together! 
 
 There are various fields where AI can provide solutions. For our 2024-25 project, we decided to focus on sustainability and energy to directly address solutions as students. 
