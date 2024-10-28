@@ -6,6 +6,15 @@ There are various fields where AI can provide solutions. For our 2024-25 project
 Our ultimate goal is to raise awareness about the related issue, obtain patents related to our ideas, and turn them into reality through entrepreneurship. We collaborate to create small parts of the project and support each other during our challenges to work together to pursue our dreams.
 
 
+Campaign
+https://www.instagram.com/teamuyoung/ 
+
+This year, our team progressed the campaign through Instagram. We focused on sharing information about sustainability and energy. We uploaded posts about technologies related to our products.
+
+
+
+
+
 ## Team Members
 
 | Member Name             | Role                                                                |
