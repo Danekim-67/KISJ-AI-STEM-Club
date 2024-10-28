@@ -6,11 +6,14 @@ There are various fields where AI can provide solutions. For our 2024-25 project
 Our ultimate goal is to raise awareness about the related issue, obtain patents related to our ideas, and turn them into reality through entrepreneurship. We collaborate to create small parts of the project and support each other during our challenges to work together to pursue our dreams.
 
 
-Campaign
-https://www.instagram.com/teamuyoung/ 
-
+## Ongoing Projects
+- Instagram Campaign https://www.instagram.com/teamuyoung/
+  
 This year, our team progressed the campaign through Instagram. We focused on sharing information about sustainability and energy. We uploaded posts about technologies related to our products.
 
+- Patent in Progress
+
+Our team's patent introduces a smart grid innovation that optimizes solar and water renewable energy, distributed efficiently to maintain optimal growing conditions in controlled environments for plant cultivation. Our product utilizes AI integration and IoT to create system features that enable user connectivity and convenience. Our technology supports a sustainable environment and provides customers with an easy agricultural experience.
 
 
 
