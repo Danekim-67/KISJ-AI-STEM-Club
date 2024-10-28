@@ -1,3 +1,6 @@
+Hello! We are Team UYoung, a group of 5 founding high school members from Korea International School Jeju. We are excited to introduce our passion project: KIS AI STEM Club, where we gather to explore our interests and innovate together! 
+
+
 ## Team Members
 
 | Member Name             | Role                                                                |
