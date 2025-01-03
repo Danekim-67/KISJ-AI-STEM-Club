@@ -22,6 +22,7 @@ Our team Uyoung is in the process of developing Usprout and will develop this pr
 - Journal of Student Research
   
 ABSTRACT
+
 The challenges of climate change and resource scarcity has highlighted the need for innovative solutions that promote sustainable living. This study focuses on conceptualizing and evaluating the feasibility of a smart farming system designed for residential use. By integrating rainwater harvesting and droplet energy conversion technologies with artificial intelligence (AI) and Internet of Things (IoT) frameworks, the proposed system aims to improve resource efficiency and support sustainable agriculture in urban households.
 
 Building on an extensive review of existing technologies and case studies, this research incorporates insights into the functionality of rainwater harvesting systems and droplet energy conversion mechanisms, such as piezoelectric devices and triboelectric nanogenerators (TENGs). These technologies were examined for their ability to collect rainwater, generate energy, and facilitate environmentally friendly practices in limited urban spaces. The design integrates IoT-enabled sensors and AI algorithms to track soil moisture, temperature, and light levels, optimizing irrigation, energy consumption, and crop growth. The system’s operations are envisioned to be managed through a centralized control hub, using Raspberry Pi and Arduino, with real-time adjustments available via a mobile application.
